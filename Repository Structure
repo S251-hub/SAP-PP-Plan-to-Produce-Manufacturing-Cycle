@@ -1,0 +1,30 @@
+SAP-PP-P2P-Project/
+│
+├── 📄 README.md                    ← This file
+│
+├── 📂 docs/
+│   └── Project_Report.docx         ← Full academic report (30+ pages)
+│
+├── 📂 data/
+│   └── Dataset_Dashboard.xlsx      ← 50-record dataset + 5-chart dashboard
+│
+└── 📂 assets/
+    └── p2p_process_flow.png        ← P2P cycle diagram (optional)
+P2P Cycle Stages Simulated
+Demand Management (Sales Order / PIR)
+        ↓
+MRP Run (MD01) → BOM Explosion + Net Requirements
+        ↓
+Planned Orders → System-Generated Proposals
+        ↓
+Production Order (CO01) → Release
+        ↓
+Goods Issue (MIGO) → Issue RM from Warehouse [Mvt Type 261]
+        ↓
+Production Execution → Work Centers (8 Routing Steps)
+        ↓
+Order Confirmation (CO11N) → Qty, Time, Scrap per Operation
+        ↓
+Goods Receipt (MB31) → FG into Stock [Mvt Type 101]
+        ↓
+Order Settlement (KO88) → Variance Analysis
