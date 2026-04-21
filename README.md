@@ -23,4 +23,4 @@ Stages Covered:
 8. Goods Receipt          (MB31 — Mvt 101)
 9. Order Settlement       (KO88)
 
-No SAP system access used — fully simulated 
+No SAP system access used — fully simulated .
