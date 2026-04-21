@@ -28,3 +28,12 @@ Order Confirmation (CO11N) → Qty, Time, Scrap per Operation
 Goods Receipt (MB31) → FG into Stock [Mvt Type 101]
         ↓
 Order Settlement (KO88) → Variance Analysis
+
+Key Learnings
+
+Understanding of SAP PP module structure and transactions
+Multi-level BOM explosion and MRP calculation logic
+Production order lifecycle from creation to settlement
+Work center capacity planning and routing definition
+Material movement types (261 – GI, 101 – GR)
+Production KPI dashboard design in Excel
