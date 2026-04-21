@@ -1,14 +1,14 @@
 SAP-PP-P2P-Project/
 │
-├── 📄 README.md                    ← This file
+├──  README.md                    ← This file
 │
-├── 📂 docs/
+├──  docs/
 │   └── Project_Report.docx         ← Full academic report (30+ pages)
 │
-├── 📂 data/
+├── data/
 │   └── Dataset_Dashboard.xlsx      ← 50-record dataset + 5-chart dashboard
 │
-└── 📂 assets/
+└──  assets/
     └── p2p_process_flow.png        ← P2P cycle diagram (optional)
 P2P Cycle Stages Simulated
 Demand Management (Sales Order / PIR)
