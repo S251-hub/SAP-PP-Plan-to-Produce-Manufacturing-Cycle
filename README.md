@@ -1,16 +1,16 @@
 # SAP-PP-Plan-to-Produce-Manufacturing-Cycle
 A complete academic simulation of the SAP PP Plan-to-Produce (P2P) manufacturing cycle for a Bicycle Manufacturing Company — includes dataset, Excel dashboard, and full project report.
-📦 SAP PP – Plan-to-Produce (P2P) Manufacturing Cycle Simulation
+SAP PP – Plan-to-Produce (P2P) Manufacturing Cycle Simulation
 
 This project simulates the complete SAP Production Planning (PP) 
 module lifecycle — from Demand Management and MRP Run through 
 Production Order execution, Goods Issue, Order Confirmation, 
 Goods Receipt, and Order Settlement.
 
-🏭 Scenario: Bicycle Manufacturing Company, Pune
-📊 Dataset: 50 simulated production orders
-📈 Dashboard: 5 Excel KPI charts
-📄 Report: 9-section academic documentation
+ Scenario: Bicycle Manufacturing Company, Pune
+ Dataset: 50 simulated production orders
+Dashboard: 5 Excel KPI charts
+ Report: 9-section academic documentation
 
 Stages Covered:
 1. Demand Management      (VA01 / MD61)
