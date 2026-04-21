@@ -24,3 +24,8 @@ Stages Covered:
 9. Order Settlement       (KO88)
 
 No SAP system access used — fully simulated .
+ Business Scenario
+Company: Bicycle Manufacturing Co. Pvt. Ltd., Pune, India
+Products: Mountain Bicycle 26", Road Bicycle 28", Kids Bicycle 20", Hybrid Bicycle 27.5"
+Plant: PUNE
+Scenario: Fulfill a sales order of 50 Mountain Bicycles through the complete P2P cycle
